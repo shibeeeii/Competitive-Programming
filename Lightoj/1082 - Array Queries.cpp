@@ -57,3 +57,5 @@ long mrq(long node,long a,long b,long qlow,long qhigh)
     long int mid=(a+b)/2;
     return min(mrq(node*2,a,mid,qlow,qhigh),mrq(node*2+1,mid+1,b,qlow,qhigh));
 }
+
+// Array Queries
