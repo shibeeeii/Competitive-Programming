@@ -3,6 +3,7 @@
 #include<string.h>
 #include<cstdio>
 using namespace std;
+// 3n+1
 int main()
 {
     long long int a,b,c,i,j,k,p,q,r,s,n,m,x,y;
