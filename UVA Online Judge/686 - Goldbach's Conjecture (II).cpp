@@ -36,4 +36,4 @@ int main()
     }
     return 0;
 }
-// Goldbach's Conjecture
+// Goldbach's Conjecture ( ii )
