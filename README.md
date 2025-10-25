@@ -124,7 +124,8 @@ Here are some handy resources to aid your competitive programming journey:
   
 - **YouTube Channels**: 
   - [William Fiset](https://www.youtube.com/c/WilliamFiset-videos)
-  - [Abdul Bari](https://www.youtube.com/c/AbdulBari)
+  - [Abdul Bari](https://www.youtube.com/@abdul_bari)
+  - [Take U Forward](https://www.youtube.com/@takeUforward)
 
 ## Contact
 
